@@ -1,0 +1,4 @@
+{
+    "coc.preferences.formatOnSaveFiletypes": ["markdown", "json", "rust"],
+    "coc.preferences.jumpCommand": "tab drop"
+}
